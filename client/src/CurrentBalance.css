@@ -1,0 +1,21 @@
+.current-balance-card {
+  width: 420px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(247, 247, 247);
+  border-radius: 16px;
+  padding: 26px;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+}
+
+.current-balance-wrapper {
+  color: rgb(148, 148, 148);
+  font-size: 26px;
+}
+
+.balance-wrapper {
+  color: rgb(102, 102, 102);
+  font-size: 26px;
+}

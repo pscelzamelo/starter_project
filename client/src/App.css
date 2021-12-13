@@ -1,0 +1,26 @@
+.color-splash {
+  position: absolute;
+  top: 0;
+  height: 24px;
+  width: 100%;
+  background: rgb(255, 246, 127);
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  min-height: 100vh;
+}
+
+.petal-logo {
+  width: 80px;
+  height: 30px;
+  background-image: url(https://d2zacpuibp18jf.cloudfront.net/ic_ios_logo%402x.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  margin-bottom: 26px;
+}

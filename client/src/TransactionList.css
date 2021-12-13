@@ -1,0 +1,15 @@
+.transaction-list-card {
+  width: 420px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(247, 247, 247);
+  border-radius: 16px;
+  padding: 26px;
+  margin-top: 26px;
+  color: rgb(148, 148, 148);
+}
+
+.transaction-list-wrapper {
+  padding-top: 26px;
+  font-style: italic;
+}
